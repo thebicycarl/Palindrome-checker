@@ -1,1 +1,1 @@
-Super basic barely styled palindrome checker
+Super basic palindrome checker
